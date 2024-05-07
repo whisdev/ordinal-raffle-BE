@@ -32,3 +32,5 @@ export enum RaffleStatus {
 }
 
 export const TOKEN_PRICE = 100;
+
+export const TEST_FEE = 3;
